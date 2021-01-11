@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./Jost-Light.woff') format("woff"),
+       url('./Jost-Light.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./Jost-Regular.woff') format("woff"),
+       url('./Jost-Regular.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./Jost-Medium.woff') format("woff"),
+       url('./Jost-Medium.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./Jost-Bold.woff') format("woff"),
+       url('./Jost-Bold.woff2') format("woff2");
+}
+
+
