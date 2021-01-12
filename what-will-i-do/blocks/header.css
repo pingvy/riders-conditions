@@ -37,7 +37,7 @@
 }
 
 .main__description-items {
-  list-style: url('../images/check.png');
+  list-style: none;
   margin: 0 0 20px 0;
 }
 
